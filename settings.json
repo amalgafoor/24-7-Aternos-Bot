@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Urbanixsmp.aternos.me",
+    "ip": "",
     "port": 60283,
     "version": "1.20.1",
     "try-creative": false
